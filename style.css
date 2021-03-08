@@ -12,4 +12,5 @@ h1{
 
 .table td:hover{
 	background-color:green;
+	transform: scale(1.1);
 }
